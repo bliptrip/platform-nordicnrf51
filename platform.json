@@ -12,11 +12,6 @@
     "url": "https://github.com/bliptrip/platform-nordicnrf51.git"
   },
   "version": "5.2.0",
-  "packageRepositories": [
-    "https://github.com/bliptrip/platform-nordicnrf51/blob/v5.2.0/manifest.json",
-    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    "http://dl.platformio.org/packages/manifest.json"
-  ],
   "frameworks": {
     "arduino": {
       "package": "framework-arduinonordicnrf5-bliptrip",
@@ -39,7 +34,7 @@
     "framework-arduinonordicnrf5-bliptrip": {
       "type": "framework",
       "optional": true,
-      "version": "~1.100.100000"
+      "version": "~1.100.1"
     },
     "framework-mbed": {
       "type": "framework",
