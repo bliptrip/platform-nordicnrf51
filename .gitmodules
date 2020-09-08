@@ -1,3 +1,4 @@
 [submodule "builder/frameworks/arduino"]
 	path = builder/frameworks/arduino
 	url = https://github.com/bliptrip/builder-framework-arduino-nrf5.git
+    branch = master
