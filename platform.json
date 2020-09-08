@@ -1,7 +1,7 @@
 {
-  "name": "nordicnrf51",
-  "title": "Nordic nRF51",
-  "description": "The Nordic nRF51 Series is a family of highly flexible, multi-protocol, system-on-chip (SoC) devices for ultra-low power wireless applications. nRF51 Series devices support a range of protocol stacks including Bluetooth Smart (previously called Bluetooth low energy), ANT and proprietary 2.4GHz protocols such as Gazell.",
+  "name": "nordicnrf51bliptrip",
+  "title": "Nordic wRF51 Bliptrip Mods",
+  "description": "Bliptrip modifications of the Nordic nRF51 Series is a family of highly flexible, multi-protocol, system-on-chip (SoC) devices for ultra-low power wireless applications. nRF51 Series devices support a range of protocol stacks including Bluetooth Smart (previously called Bluetooth low energy), ANT and proprietary 2.4GHz protocols such as Gazell.  These modifications specifically include ability to reroute serial port to different pins.",
   "homepage": "https://www.nordicsemi.com/eng/Products/nRF51-Series-SoC",
   "license": "Apache-2.0",
   "engines": {
