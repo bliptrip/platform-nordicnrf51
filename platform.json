@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-nordicnrf51.git"
+    "url": "https://github.com/bliptrip/platform-nordicnrf51.git"
   },
   "version": "5.2.0",
   "packageRepositories": [
+    "https://github.com/bliptrip/platform-nordicnrf51/blob/v5.2.0/manifest.json",
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json"
   ],
   "frameworks": {
     "arduino": {
-      "package": "framework-arduinonordicnrf5",
+      "package": "framework-arduinonordicnrf5-bliptrip",
       "script": "builder/frameworks/arduino/nrf5.py"
     },
     "mbed": {
@@ -35,10 +36,10 @@
       "type": "toolchain",
       "version": ">=1.60301.0,<1.80000.0"
     },
-    "framework-arduinonordicnrf5": {
+    "framework-arduinonordicnrf5-bliptrip": {
       "type": "framework",
       "optional": true,
-      "version": "~1.600.0"
+      "version": "~1.100.100000"
     },
     "framework-mbed": {
       "type": "framework",
